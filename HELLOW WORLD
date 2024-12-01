@@ -1,0 +1,14 @@
+// Code for printing "HELLO WORLD" in C-Language.
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
+
+//OUTPUT
+Hello World
+... Program finished with exit code O
+Press ENTER to exit
